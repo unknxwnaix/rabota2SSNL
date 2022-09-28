@@ -1,0 +1,15 @@
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/bin/Release/net6.0/PrakticheskayaN2SSNL
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/bin/Release/net6.0/PrakticheskayaN2SSNL.deps.json
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/bin/Release/net6.0/PrakticheskayaN2SSNL.runtimeconfig.json
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/bin/Release/net6.0/PrakticheskayaN2SSNL.dll
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/bin/Release/net6.0/PrakticheskayaN2SSNL.pdb
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/PrakticheskayaN2SSNL.csproj.AssemblyReference.cache
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/PrakticheskayaN2SSNL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/PrakticheskayaN2SSNL.AssemblyInfoInputs.cache
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/PrakticheskayaN2SSNL.AssemblyInfo.cs
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/PrakticheskayaN2SSNL.csproj.CoreCompileInputs.cache
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/PrakticheskayaN2SSNL.dll
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/refint/PrakticheskayaN2SSNL.dll
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/PrakticheskayaN2SSNL.pdb
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/PrakticheskayaN2SSNL.genruntimeconfig.cache
+/Users/aix/Projects/PrakticheskayaN2SSNL/PrakticheskayaN2SSNL/obj/Release/net6.0/ref/PrakticheskayaN2SSNL.dll
